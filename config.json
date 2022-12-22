@@ -1,0 +1,9 @@
+{
+    "bucket": "308.run",
+    "s3_partition": "aws",
+    "region": "us-east-1",
+    "stage": "dev",
+    "api_endpoint_type": "EDGE",
+    "short_domain": "308.run",
+    "debug": false
+}

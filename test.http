@@ -1,0 +1,23 @@
+
+POST https://vhfj71rsb6.execute-api.us-east-1.amazonaws.com/dev/
+content-type: application/json
+
+{
+    "url": "https://twitter.com/JamesLuterek",
+    "slug": "twitter"
+}
+
+################################
+
+POST https://api.308.run/dev/
+content-type: application/json
+
+{
+    "url": "https://www.jamesluterek.com",
+    "slug": "jl"
+}
+
+################################
+
+GET https://308.run/test.html
+content-type: application/json
